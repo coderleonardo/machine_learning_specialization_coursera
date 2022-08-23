@@ -26,4 +26,12 @@ In the third course of the Machine Learning Specialization, we see how to:
 	- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
 	- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
 	- Build a deep reinforcement learning model.
+	
+
+### **License**
+
+This repository is intended only as a study guide for those interested and should not be used for profit.
+
+All rights are under the code of conduct described by [Coursera](https://www.coursera.org/).
+
 
