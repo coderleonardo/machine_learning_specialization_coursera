@@ -20,6 +20,7 @@ In this practice lab, we implemented the anomaly detection algorithm and apply i
 Collaborative filtering system will be the most appropriate learning algorithm, for example, if you run an online bookstore and collect the ratings of many users. You want to use this to identify what books are "similar" to each other (i.e., if a user likes a certain book, what are other books that they might also like?)
 
 Also, for recommender systems with binary labels y, these are reasonable ways for defining when y should be 1 for a given user j and item i:
+
 		- y is 1 if user j fav/likes/clicks on item i (after being shown the item).
 			(fav/likes/clicks on an item shows a user's interest in that item. It also shows that an item is interesting to a user.)
 		- y is 1 if user j purchases item i (after being shown the item).
