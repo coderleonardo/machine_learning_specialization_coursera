@@ -25,10 +25,13 @@ Also, for recommender systems with binary labels y, these are reasonable ways fo
 			(fav/likes/clicks on an item shows a user's interest in that item. It also shows that an item is interesting to a user.)
 		- y is 1 if user j purchases item i (after being shown the item).
 			(Purchasing an item shows a user's preference for that item. It also shows that an item is preferred by a user.)
+
+#### Lab 01
+In this lab we build a collaborative filtering recommender system for recommending movies using Tensorflow.
 			
 ### Deep Learning for Content-Based Filtering
 In this lab we implemented a content based collaborative filtering recommender system for movies. This lab used neural networks to generate the user and movie vectors.
 
-#### Lab02
+#### Lab 02
 In this lab, we build a collaborative filtering recommender system for recommending movies using Tensorflow.
 
