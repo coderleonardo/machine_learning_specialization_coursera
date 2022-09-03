@@ -35,3 +35,8 @@ In this lab we implemented a content based collaborative filtering recommender s
 #### Lab 02
 In this lab, we build a collaborative filtering recommender system for recommending movies using Tensorflow.
 
+## W03
+
+### Reinforcement Learning
+In the final graded practice lab of this course (and this specialization), we implemented code for a virtual lunar lander.  This gave us a chance to practice some of the concepts in deep reinforcement learning covered in lecture.  At the end of the lab, we saw a video of your lunar lander and can check whether it has learned to successfully land on the moon's surface!
+
